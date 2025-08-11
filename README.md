@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&color=FF69B4&lines=olá!+👋;+me+chamo+Lhara!;" />
 </h1>
 
-<div>
+<div style="display: flex">
  <a href="https://beacons.ai/LharaRaysa">
   <img height = "180cm" src ="https://github-readme-stats.vercel.app/api?username=LharaRaysa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark">
   <img height = "180cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LharaRaysa&layout=compact&langs_count=16&theme=github_dark">
