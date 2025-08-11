@@ -4,8 +4,8 @@
 
 <div style="display: flex">
  <a href="https://beacons.ai/LharaRaysa">
-  <img height = "160cm" src ="https://github-readme-stats.vercel.app/api?username=LharaRaysa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark">
-  <img height = "160cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LharaRaysa&layout=compact&langs_count=16&theme=github_dark">
+  <img height = "160cm" src ="https://github-readme-stats.vercel.app/api?username=LharaRaysa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi">
+  <img height = "160cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LharaRaysa&layout=compact&langs_count=16&theme=holi">
 </div>
 
 <div style="display: inline_block"><br>
