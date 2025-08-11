@@ -3,7 +3,7 @@
 </h1>
 
 <div>
- <a href="https://beacons.ai/Benedito-Dev">
+ <a href="https://beacons.ai/LharaRaysa">
   <img height = "180cm" src ="https://github-readme-stats.vercel.app/api?username=LharaRaysa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark">
   <img height = "180cm" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LharaRaysa&layout=compact&langs_count=16&theme=github_dark">
 </div>
@@ -28,5 +28,5 @@
   
 </div>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF69B4&lines=obrigado+pela+atenção!;" />
 </h1>
