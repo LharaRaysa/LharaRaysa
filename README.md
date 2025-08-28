@@ -3,9 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://beacons.ai/LharaRaysa" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-Beacons-informational?style=for-the-badge&logo=linktree&color=FF69B4">
-  </a>
   <a href="https://www.instagram.com/lhara_ra/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -36,9 +33,3 @@
   <img alt="Git" height="40" style="margin-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="React Native" height="40" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
 </div>
-
----
-
-<p align="center">
-  ✨ Obrigada por visitar meu perfil!  
-</p>
