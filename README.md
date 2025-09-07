@@ -32,5 +32,4 @@
   <img alt="PostgreSQL" height="40" style="margin-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img alt="Git" height="40" style="margin-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="React Native" height="40" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
-  <img alt="Tailwind" height="40" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-</div>
+  <img alt="Tailwind" height="40" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
